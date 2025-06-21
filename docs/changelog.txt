@@ -52,6 +52,7 @@ Template for new versions:
 # Future
 
 ## New Tools
+- `worldgen-tools`: automatically pause worldgen at a given stage and/or year, reject world
 
 ## New Features
 
